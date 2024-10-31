@@ -1,0 +1,15 @@
+/* 
+  Stylesheet for Product Display for Prestashop Plugin
+  https://www.thatsoftwareguy.com/wp_product_display_for_prestashop.html 
+*/
+#prod-left {
+  width: 200px;
+  float: left;
+}
+#prod-right {
+  margin-left: 250px;
+  /* Change this to whatever the width of your left column is*/
+}
+.prod-clear {
+  clear: both;
+}
